@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is ajithkumar.m 
+  <p>I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
+  </p>
+</h2>
 
 ###
 
