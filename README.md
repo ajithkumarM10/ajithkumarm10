@@ -47,4 +47,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://media1.giphy.com/media/cOFB74VjN0OqvRmJGK/giphy.gif?cid=6c09b9529j4q86opfwjple6ci5k0uvpcu0qpxtc11pnuzr8r&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
