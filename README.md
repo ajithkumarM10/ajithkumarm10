@@ -32,17 +32,10 @@
 </footer>
 
 
-<h2 align="left">Hi 👋! My name is ajithkumar.m 
-  <p>I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on [...]
+<h2 align="left">Hi 👋! Buddy 
+<p> 30,000 websites are hacked every day 
   </p>
 </h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="1[...]
-</div>
 
 ###
 
