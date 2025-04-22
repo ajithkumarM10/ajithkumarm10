@@ -65,6 +65,4 @@
 - **Jupyter Notebook**: <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/jupyterlogo.svg" alt="Jupyter" height="30" width="30"/>
 - **Git**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" width="30"/>
 - **Docker**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" width="30"/>
-
-### 🎉 Fun GIF
-![Animated GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VuZHI0ZXhmYXBjZnk0cjFmNGY1b3A4ZmZjeWgyc2FoMHpxYjV3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif)
+----
