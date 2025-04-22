@@ -61,8 +61,6 @@
 ---
 ### 🛠️ Tools I Know
 - **Visual Studio Code**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="30" width="30"/>
-- ** ![Arduino IDE](https://upload.wikimedia.org/wikipedia/commons/3/3e/Arduino_Logo.svg)
--  ![Jupyter Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/jupyterlogo.svg)
 - **Git**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" width="30"/>
 - **Docker**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" width="30"/>
 ----
