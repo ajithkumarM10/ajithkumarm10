@@ -1,9 +1,10 @@
 # 👋 Hi there, I'm Ajithkumar M
 ### AI/Data Science Engineer | Robotic Enthusiast
 
-**I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.**
+**I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Robotic developer. When I'm not coding, I focus on Android OS customization and creating custom operating systems.**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajithkumar458?logo=twitter&style=for-the-badge)](https://twitter.com/ajithkumar458)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VuZHI0ZXhmYXBjZnk0cjFmNGY1b3A4ZmZjeWgyc2FoMHpxYjV3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif" width="400" height="300" alt="Animated GIF" />
 
 ---
 
@@ -14,9 +15,7 @@
   - **Data Science:** Data analysis, visualization, and predictive modeling
   - **AI/ML:** Machine learning algorithms and their applications
   - **IoT:** Integrating devices and data for smart solutions
-  - **Android Development:** Customizing Android OS and creating unique operating systems
-  - <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VuZHI0ZXhmYXBjZnk0cjFmNGY1b3A4ZmZjeWgyc2FoMHpxYjV3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif" width="400" height="300" alt="Animated GIF" />
-
+  - 
 ---
 
 ### 🌐 Connect with Me
