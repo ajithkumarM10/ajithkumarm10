@@ -1,19 +1,20 @@
 # 👋 Hi there, I'm Ajithkumar M
-### AI/Data Science Engineer |Robotic Enthusiast
-**I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
+### AI/Data Science Engineer | Robotic Enthusiast
+
+**I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.**
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajithkumar458?logo=twitter&style=for-the-badge)](https://twitter.com/ajithkumar458)
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** AI|ML Development and IoT Projects
+- 🔭 **Currently working on:** AI/ML Development and IoT Projects
 - 🌱 **Learning:** Advanced AI/ML techniques, Data Science methodologies, and Web Development
 - 💬 **Ask me about:** 
   - **Data Science:** Data analysis, visualization, and predictive modeling
   - **AI/ML:** Machine learning algorithms and their applications
   - **IoT:** Integrating devices and data for smart solutions
   - **Android Development:** Customizing Android OS and creating unique operating systems
-    
 
 ---
 
@@ -60,4 +61,5 @@
 ---
 
 ### 🛠️ Tools I Know
-- **Visual Studio Code**: ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="30" width
+- **Visual Studio Code**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="30" width="30"/>
+- **Arduino IDE**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arduino_Logo.svg/1200px-Arduino
