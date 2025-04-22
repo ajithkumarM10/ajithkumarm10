@@ -1,20 +1,19 @@
 # 👋 Hi there, I'm Ajithkumar M
-### AI/Data Science Engineer | IoT Enthusiast
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajithkumarm10&label=Profile Views&color=0e75b6&style=flat)
-
+### AI/Data Science Engineer |Robotic Enthusiast
+**I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajithkumar458?logo=twitter&style=for-the-badge)](https://twitter.com/ajithkumar458)
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** Backend Development and IoT Projects
+- 🔭 **Currently working on:** AI|ML Development and IoT Projects
 - 🌱 **Learning:** Advanced AI/ML techniques, Data Science methodologies, and Web Development
 - 💬 **Ask me about:** 
   - **Data Science:** Data analysis, visualization, and predictive modeling
   - **AI/ML:** Machine learning algorithms and their applications
   - **IoT:** Integrating devices and data for smart solutions
   - **Android Development:** Customizing Android OS and creating unique operating systems
+    
 
 ---
 
@@ -24,9 +23,6 @@
 </a>
 <a href="https://www.linkedin.com/in/ajithkumarm1234" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-</a>
-<a href="https://stackoverflow.com/users/1/?tab=profile" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" />
 </a>
 <a href="https://www.instagram.com/invites/contact/?igsh=11nch2109mdkp&utm_content=qvb893o" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
